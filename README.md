@@ -39,7 +39,8 @@ A small practice project built with plain **HTML**, **CSS**, and **JavaScript** 
 
 ## 🚀 Live Demo
 
-🔗 [Check it out on Netlify](https://docs-react-project.netlify.app/)
+🔗 [Check it out on Netlify](https://justtkajuu.github.io/Snake-Game/)
+
 
 
 
